@@ -10,3 +10,4 @@ Simple React application using mock JSON data.
 ## Run
 npm install
 npm start
+ deployed link:https://bcj-rosy.vercel.app/
