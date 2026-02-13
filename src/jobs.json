@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "Frontend Intern", "company": "Acme Corp", "location": "Remote", "type": "Internship" },
+  { "id": 2, "title": "React Developer", "company": "TechSoft", "location": "Bangalore", "type": "Full-time" },
+  { "id": 3, "title": "UI Engineer", "company": "DesignPro", "location": "Remote", "type": "Full-time" },
+  { "id": 4, "title": "Web Intern", "company": "StartupX", "location": "Hyderabad", "type": "Internship" },
+  { "id": 5, "title": "Junior Frontend Developer", "company": "Pixel Labs", "location": "Chennai", "type": "Full-time" },
+  { "id": 6, "title": "JavaScript Intern", "company": "CodeCraft", "location": "Remote", "type": "Internship" },
+  { "id": 7, "title": "UI/UX Designer", "company": "Creative Minds", "location": "Pune", "type": "Full-time" },
+  { "id": 8, "title": "Frontend Engineer", "company": "NextGen Tech", "location": "Bangalore", "type": "Full-time" },
+  { "id": 9, "title": "Web Developer Intern", "company": "InnovateX", "location": "Remote", "type": "Internship" },
+  { "id": 10, "title": "React UI Developer", "company": "BlueOcean", "location": "Hyderabad", "type": "Full-time" }
+]
